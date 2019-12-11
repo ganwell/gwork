@@ -1,15 +1,15 @@
 [submodule "caluma"]
 	path = caluma
-	url = https://github.com/projectcaluma/caluma.git
+	url = https://github.com/ganwell/caluma.git
 [submodule "graphene"]
 	path = graphene
-	url = https://github.com/graphql-python/graphene.git
+	url = https://github.com/ganwell/graphene.git
 [submodule "graphene-django"]
 	path = graphene-django
-	url = https://github.com/graphql-python/graphene-django.git
+	url = https://github.com/ganwell/graphene-django.git
 [submodule "graphql-core"]
 	path = graphql-core
-	url = https://github.com/graphql-python/graphql-core-next.git
+	url = https://github.com/ganwell/graphql-core-next.git
 [submodule "graphql-relay-py"]
 	path = graphql-relay-py
-	url = https://github.com/graphql-python/graphql-relay-py.git
+	url = https://github.com/ganwell/graphql-relay-py.git
