@@ -7,3 +7,6 @@
 [submodule "graphene-django"]
 	path = graphene-django
 	url = https://github.com/graphql-python/graphene-django.git
+[submodule "graphql-core"]
+	path = graphql-core
+	url = https://github.com/graphql-python/graphql-core-next.git
