@@ -10,3 +10,6 @@
 [submodule "graphql-core"]
 	path = graphql-core
 	url = https://github.com/graphql-python/graphql-core-next.git
+[submodule "graphql-relay-py"]
+	path = graphql-relay-py
+	url = https://github.com/graphql-python/graphql-relay-py.git
