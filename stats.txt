@@ -1,0 +1,20 @@
+data-points:                  44
+actions:                      21
+actions (done):               20
+actions (open):                1
+tasks:                         5
+tasks (done):                  4
+tasks (open):                  1
+tasks (gräy):                 28
+tasks (avg. actions):          4.20
+prediction data-points:       14
+projection:                   21.25h
+projection (corrected):      139.76h
+projection (predicted):      117.06h
+tasks (avg. projection):       4.24h
+estimate:                     20.00h
+correction factor:             0.96h
+done:                         19.25h
+remaining:                     2.00h
+remaining (corrected):       120.51h
+remaining (predicted):        97.81h
