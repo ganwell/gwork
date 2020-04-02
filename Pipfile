@@ -56,10 +56,10 @@ reuse = "==0.8.1"
 gitlint = "==0.13.1"
 
 [packages]
-graphene-django = {editable = true,path = "./graphene-django"}
+graphene-django = {editable = true,extras = ["test"],path = "./graphene-django"}
 graphql-core = {editable = true,path = "./graphql-core"}
 graphql-relay = {editable = true,path = "./graphql-relay-py"}
-graphene = {editable = true,path = "./graphene"}
+graphene = {editable = true,extras = ["test"],path = "./graphene"}
 dateparser = "==0.7.4"
 django-cors-headers = "==3.2.1"
 django-environ = "==0.4.5"
