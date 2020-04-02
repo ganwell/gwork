@@ -34,6 +34,7 @@ fsfe-reuse = "==0.5.2"
 Faker = "==2.0.4"
 pdbpp = "*"
 ipdb = "*"
+"801bbaf" = {file = "/data/files/wasmer-0.4.1-py3-none-any.whl"}
 
 [packages]
 graphene-django = {editable = true,path = "./graphene-django"}
