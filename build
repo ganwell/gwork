@@ -1,0 +1,10 @@
+#!/bin/sh
+
+set -e
+if command -v poetry-use; then
+    poetry-use 3.7.5
+else
+    poetry env use 3.7
+fi
+poetry run pip install -U pip
+poetry install
