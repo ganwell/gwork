@@ -1367,8 +1367,8 @@ docs = ["sphinx", "jaraco.packaging (>=3.2)", "rst.linker (>=1.9)"]
 testing = ["jaraco.itertools", "func-timeout"]
 
 [metadata]
-content-hash = "f521a84181fd7ac46e1ce5d6c23ad3bf23898c40ca7e5b53b3765c90e2898b82"
-python-versions = "^3.7"
+content-hash = "cabbf0ff058e8da315eb6fd671a8a5d014190e735b7dad2eaa2ebf6959044206"
+python-versions = "~3.7"
 
 [metadata.files]
 aniso8601 = [
