@@ -1,0 +1,3 @@
+[submodule "caluma"]
+	path = caluma
+	url = https://github.com/ganwell/caluma.git
