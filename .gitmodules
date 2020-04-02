@@ -1,3 +1,6 @@
 [submodule "caluma"]
 	path = caluma
 	url = https://github.com/ganwell/caluma.git
+[submodule "graphql-core-next"]
+	path = graphql-core
+	url = https://github.com/ganwell/graphql-core-next.git
